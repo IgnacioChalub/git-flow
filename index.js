@@ -7,4 +7,6 @@ const func = () => {
 }
 console.log("cambio")
 
+console.log("branch 1")
+
 func()
