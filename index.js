@@ -2,7 +2,7 @@ console.log("Hello World!");
 
 
 const func = () => {
-    console.log("algo")
+    console.log("tenia que decir otra cosa")
 }
 
 func()
